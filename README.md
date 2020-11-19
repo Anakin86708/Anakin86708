@@ -8,7 +8,7 @@ Me importo bastante com a interface, experiência do usuário e a usabilidade de
 
 
 - 🔭 I’m currently working on Academic projects and [Explora Project](https://github.com/Anakin86708/Explora-Manim)
-- 🌱 I’m currently learning Python (POO and design patterns) and data analysis
+- 🌱 I’m currently learning Python (OOP and design patterns) and data analysis
 - ⚡ Fun fact: My first programming language was Pascal
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md -->
