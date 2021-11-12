@@ -1,5 +1,8 @@
 ### Live long and prosper 🖖
 
+
+[![wakatime](https://wakatime.com/badge/user/78ed4a14-5ac1-4a8a-b7eb-5f753bd0933a.svg)](https://wakatime.com/@78ed4a14-5ac1-4a8a-b7eb-5f753bd0933a)
+
 Sou Ariel, curso Sistemas de Informação na Unicamp. Gosto muito de programação, matemática, lógica e gatos! 🐈
 
 Interesse em aprendizado de máquina, UI & UX, sistemas linux e muito mais... 🐧
